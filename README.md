@@ -133,7 +133,7 @@ The agent was trained over multiple consecutive episodes (each lasting 20 second
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
