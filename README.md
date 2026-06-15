@@ -14,6 +14,10 @@ The project consists of two phases:
 2. **AI Agent Implementation** — Training a Q-Learning agent to autonomously play the game.
 
 ---
+### GUI
+
+<img width="433" height="237" alt="image" src="https://github.com/user-attachments/assets/e5c7137d-eb8b-4c06-b8cc-5b9a361b12cf" />
+
 
 ## Methodology
 
